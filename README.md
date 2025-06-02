@@ -1,7 +1,7 @@
 <!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/giakhanhit.svg" width="1200" alt="giakhanhit-official" />
-</a>
+</a> 
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
