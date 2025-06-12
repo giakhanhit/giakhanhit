@@ -88,7 +88,7 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/GiakhanhIT-quotes.svg" width="846" height="150"
+  <img src="svg/giakhanhit-quotes.svg" width="846" height="150"
   alt="GiaKhanhIT-official" />
 </a>
 
